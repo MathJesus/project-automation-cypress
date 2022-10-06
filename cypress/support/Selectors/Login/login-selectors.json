@@ -1,0 +1,8 @@
+{
+  "fields": {
+    "username": "#email",
+    "password": "#passwd"
+  },
+  "loginButton": "#SubmitLogin",
+  "screenLogin": "a.login"
+}

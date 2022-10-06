@@ -1,0 +1,9 @@
+{
+    "fields": {
+        "search": "#search_query_top"
+    },
+    "buttons": {
+        "searchButton": "button[name='submit_search']"
+    },
+    "body": "#center_column"
+}

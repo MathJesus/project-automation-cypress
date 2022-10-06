@@ -1,0 +1,5 @@
+{
+    "messageContainer": "#center_column p",
+    "messageErrorLogin": "#center_column .alert li",
+    "messageAddToCartWithSucess": "h2"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "teste_keego",
+  "version": "1.0.0",
+  "description": "Teste de Automacao",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Matheus Jesus",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  }
+}

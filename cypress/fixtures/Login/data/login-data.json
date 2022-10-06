@@ -1,0 +1,12 @@
+{
+    "actionUser": {
+        "username": "teste2021@teste.com.br",
+        "usernameInvalid": "teste2021@testeada",
+        "password": "teste",
+        "passwordInvalid": "teste"
+    },
+    "actionUserInvalid": {
+        "usernameInvalid": "teste2021@testeada",
+        "passwordInvalid": "testedasda"
+    }
+}

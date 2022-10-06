@@ -1,0 +1,11 @@
+{
+    "buttons": {
+        "paymentButton": "div.button-container a.btn[title='Proceed to checkout']",
+        "buttonPaymentInSummary": ".cart_navigation a.button",
+        "buttonPaymentInAdressAndShipping": ".cart_navigation button",
+        "checkboxAgreeTherms": "#cgv"
+    },
+    "fields": {
+        "productDescription": "td.cart_description .product-name"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "fields": {
+        "iconTableListProduct": "div.sortPagiBar li#list"
+    },
+    "buttons": {
+        "addToCart": "a.button.ajax_add_to_cart_button"
+    },
+    "body": "#center_column"
+}
